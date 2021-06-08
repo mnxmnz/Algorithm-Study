@@ -15,4 +15,6 @@
 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)                  | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12937.py) |
 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)                  | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12944.py) |
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)           | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12948.py) |
+| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)                  | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12950.py) |
+| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12954.py) |
 | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)          | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/68644.py) |
