@@ -13,6 +13,8 @@
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12917.py) |
 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)           | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12918.py) |
 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)                  | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12937.py) |
+| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12940)                  | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12940.py) |
+| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)                  | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12943.py) |
 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)                  | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12944.py) |
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)           | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12948.py) |
 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)                  | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12950.py) |
