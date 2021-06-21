@@ -8,10 +8,12 @@
 
 | Challenges                                                                               | Solutions                                                                                      |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)                       | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12901.py) |
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)         | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12903.py) |
 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)    | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12910.py) |
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12917.py) |
 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)           | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12918.py) |
+| [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)        | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12935.py) |
 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)                  | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12937.py) |
 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)      | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12940.py) |
 | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)                  | [Solutions](https://github.com/mnxmnz/Algorithm-Study/blob/master/Programmers-Level1/12943.py) |
