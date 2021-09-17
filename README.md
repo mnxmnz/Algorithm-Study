@@ -12,7 +12,7 @@
 
 | Challenge                                                          |                                          Solution                                          |
 | ------------------------------------------------------------------ | :----------------------------------------------------------------------------------------: |
-| [2016년](https://programmers.co.kr/learn/courses/30/lessons/12944) | [12944.js](https://github.com/mnxmnz/Algorithm-Study/blob/main/JavaScript/Level1/12944.js) |
+| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | [12944.js](https://github.com/mnxmnz/Algorithm-Study/blob/main/JavaScript/Level1/12944.js) |
 
 <br />
 
